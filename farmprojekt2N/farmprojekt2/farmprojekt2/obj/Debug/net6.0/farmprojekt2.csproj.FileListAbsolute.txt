@@ -1,0 +1,42 @@
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.exe
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.deps.json
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.runtimeconfig.json
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.pdb
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.AssemblyInfoInputs.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.AssemblyInfo.cs
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.csproj.CoreCompileInputs.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\refint\farmprojekt2.dll
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.pdb
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.genruntimeconfig.cache
+C:\Users\Hanan\Desktop\högskolan borås\programmering c#\farmprojekt2\farmprojekt2\obj\Debug\net6.0\ref\farmprojekt2.dll
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.exe
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.deps.json
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.runtimeconfig.json
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.dll
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.pdb
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.AssemblyInfoInputs.cache
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.AssemblyInfo.cs
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.csproj.CoreCompileInputs.cache
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.dll
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\refint\farmprojekt2.dll
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.pdb
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.genruntimeconfig.cache
+C:\Users\Hanan\Desktop\systemutvecklare\farmprojekt2\farmprojekt2\obj\Debug\net6.0\ref\farmprojekt2.dll
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.exe
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.deps.json
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.runtimeconfig.json
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.dll
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\bin\Debug\net6.0\farmprojekt2.pdb
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.AssemblyInfoInputs.cache
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.AssemblyInfo.cs
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.dll
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\refint\farmprojekt2.dll
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.pdb
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\farmprojekt2.genruntimeconfig.cache
+C:\Users\Noha Q\Downloads\farmprojekt2 (1)\farmprojekt2\farmprojekt2\obj\Debug\net6.0\ref\farmprojekt2.dll
